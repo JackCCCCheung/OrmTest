@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OrmTest.iml" filepath="$PROJECT_DIR$/OrmTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greendao/app.iml" filepath="$PROJECT_DIR$/greendao/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ormlite/ormlite.iml" filepath="$PROJECT_DIR$/ormlite/ormlite.iml" />
+    </modules>
+  </component>
+</project>
